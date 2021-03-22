@@ -1,5 +1,5 @@
 # Mitocode-mediapp-backend
-EVALUACION TIPO A para la obtención del certificado de aprobación del curso Java Full Stack
+EVALUACION TIPO A para la obtención del certificado de aprobación del curso JAVA FULL STACK DEVELOPER
 (Spring Boot 2 + Angular 11) - MITOCODE
 
 # Coder
